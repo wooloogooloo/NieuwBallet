@@ -17,7 +17,7 @@ For python 2
 python -m SimpleHTTPServer 8000
 ```
 
-Open chrome and goto <http://localhost:8000/NieuwBallet.html> and have fun.
+Open chrome and goto http://0.0.0.0:8000/NieuwBallet/NieuwBallet.html and have fun.
 
 
 
